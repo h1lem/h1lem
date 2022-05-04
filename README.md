@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @h1lem
-- 🌱 I’m currently learning Fullstack development in Hiring Coders.
+- 🌱 I’m currently learning fullstack development in Hiring Coders.
