@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @h1lem
-- 🌱 I’m currently learning fullstack development in Hiring Coders.
+- 🌱 I’m currently learning fullstack development on a project called Hiring Coders, powered by Gama Academy.
+- You can reach me on the linkedin link and email in my bio.
